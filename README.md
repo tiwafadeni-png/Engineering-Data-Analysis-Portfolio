@@ -253,19 +253,6 @@ The analysis includes visualizations showing:
 - Late-life sensor slopes
 - Candidate sensor comparisons
 
-### Example Visualizations
-
-Add your strongest plots below:
-
-![Sensor 4 Trend](figures/sensor_4_trend.png)
-
-![Sensor 7 Trend](figures/sensor_7_trend.png)
-
-![Candidate Sensor Comparison](figures/candidate_sensor_comparison.png)
-
-![Sensor Correlation](figures/sensor_correlation.png)
-
-> Replace the filenames above with the actual names of your saved plots.
 
 ---
 
@@ -339,19 +326,17 @@ NASA-Turbofan-Sensor-Analysis/
 │       └── train_FD001.txt
 │
 ├── notebooks/
-│   └── turbofan_sensor_analysis.ipynb
+│   └── 01_NASA_Data_Exploratioj.ipynb
 │
 ├── figures/
-│   ├── sensor_4_trend.png
-│   ├── sensor_7_trend.png
-│   ├── sensor_11_trend.png
-│   ├── sensor_12_trend.png
-│   ├── sensor_15_trend.png
+│   ├── 01-engine_lifetime_histogram.png
 │   └── ...
 │
 ├── README.md
 │
 └── requirements.txt
+
+
 
 
 ## Conclusion
